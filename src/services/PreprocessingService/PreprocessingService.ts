@@ -39,13 +39,28 @@ export interface PreprocessServiceInterface {
   ) => PreformatDataInterface;
 }
 
+const mapTranslations: {
+  [key: string]: string;
+} = {
+  ClassOverridesFieldOfSuperClassInspection:
+    "Переопределение полей суперкласса PHP",
+  MultipleReturnStatementsInspection:
+    "Множественные точки возврата в методах классов PHP",
+  PhpDynamicAsStaticMethodCallInspection:
+    "Динамические методы классов используются, как статические PHP",
+  PhpLanguageLevelInspection: "Синтаксические ошибки PHP",
+  PhpMethodParametersCountMismatchInspection:
+    "Несоответствие количества объявленных параметров используемым в методах PHP",
+  PhpUnusedAliasInspection: "Неиспользуемые импорты в файлах PHP",
+  PhpUnusedLocalVariableInspection: "Неиспользуемые переменные в файлах PHP",
+  PhpUnusedParameterInspection: "Неиспользуемые параметры в методах PHP",
+  PhpUnusedPrivateFieldInspection: "Неиспользуемые приватные поля классов PHP",
+  PhpUnusedPrivateMethodInspection:
+    "Неиспользуемые приватные методы классов PHP",
+  SenselessProxyMethodInspection: "Бессмысленные прокси методы PHP",
+};
+
 class PreprocessingService implements PreprocessServiceInterface {
-  mapTranslations: { [key: string]: string } | undefined;
-
-  constructor(mapTranslations?: MapTypeTranslations) {
-    this.mapTranslations = mapTranslations;
-  }
-
   formatData(
     data: PreprocessingFormattingDataInterface[]
   ): PreformatDataInterface {
@@ -56,10 +71,9 @@ class PreprocessingService implements PreprocessServiceInterface {
         ? VariantReportType.DUPLICATES
         : VariantReportType.COMMON;
 
-      const name =
-        this.mapTranslations && this.mapTranslations[nameWithoutExtension]
-          ? this.mapTranslations[nameWithoutExtension]
-          : nameWithoutExtension;
+      const name = !!mapTranslations[nameWithoutExtension]
+        ? mapTranslations[nameWithoutExtension]
+        : nameWithoutExtension;
 
       return {
         name: name,
