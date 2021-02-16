@@ -2,18 +2,12 @@ import { AggregatedReportsInterface } from "../services/AggregateDataService/Agg
 import HtmlBuilder from "./builders/HtmlBuilder";
 
 export interface ViewBuilderInterface {
-  viewer: HtmlBuilder | TextBuilder;
+  viewer: HtmlBuilder;
   render: (data: AggregatedReportsInterface[]) => any;
 }
 
 export enum ViewBuilderType {
   HTML,
-}
-
-class TextBuilder {
-  render(data: AggregatedReportsInterface[]) {
-    return "";
-  }
 }
 
 const mapViewBuilder = {
