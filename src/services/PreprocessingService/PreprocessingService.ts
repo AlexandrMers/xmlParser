@@ -4,10 +4,8 @@ import {
   ParsedXmlFileInterface,
 } from "../XmlToJsonFormatter/types";
 
-import {
-  formatParsedDataByDuplicatedParams,
-  formatParsedDataByProblemsParams,
-} from "../XmlToJsonFormatter/helpers";
+import { formatParsedDataByProblemsParams } from "../XmlToJsonFormatter/helpers";
+import { DataForAggregateInterface } from "../AggregateDataService/AggregateDataService";
 
 export enum VariantReportType {
   COMMON,
@@ -36,7 +34,7 @@ export interface PreprocessServiceInterface {
   mapTranslations?: MapTypeTranslations;
   formatData: (
     data: PreprocessingFormattingDataInterface[]
-  ) => PreformatDataInterface;
+  ) => DataForAggregateInterface[];
 }
 
 const mapTranslations: {
@@ -63,7 +61,7 @@ const mapTranslations: {
 class PreprocessingService implements PreprocessServiceInterface {
   formatData(
     data: PreprocessingFormattingDataInterface[]
-  ): PreformatDataInterface {
+  ): DataForAggregateInterface[] {
     return data.map((group) => {
       const nameWithoutExtension = group.fileName.split(".")[0];
 
@@ -83,9 +81,7 @@ class PreprocessingService implements PreprocessServiceInterface {
             ? formatParsedDataByProblemsParams(
                 group.parsedData.problems?.problem
               )
-            : formatParsedDataByDuplicatedParams(
-                group.parsedData.root?.duplicate
-              ),
+            : [],
       };
     });
   }

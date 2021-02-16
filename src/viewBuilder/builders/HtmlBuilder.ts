@@ -9,25 +9,28 @@ const renderTemplateByData = (data: AggregatedReportsInterface[]): string =>
   `<div>
         ${renderMap(data, (group) => {
           return `
+                <br>
                 <div>
-                    <h3>Тип обнаруженной проблемы: ${group.name}</h3>
-                    ${renderMap(group.commonReports, (report) => {
-                      return `${group.commonReports.map(
-                        (report) => `
-                            <div style="margin-bottom: 10px">
-                                ${renderMap(report.reports, (reportItem) => {
-                                  return `
-                                        <div style="margin-bottom: 10px">
-                                            <div><strong>Уровень проблемы:</strong> ${reportItem.problem.severity}</div>
-                                            <div><strong>Файл:</strong> ${reportItem.file}:${reportItem.line}</div>
-                                            <div><strong>Описание проблемы:</strong> ${reportItem.description} [${reportItem.problem.text}]</div>
-                                            <div><strong>Часть кода в которой возникла ошибка:</strong> ${reportItem.highlightedElement}</div>
-                                        </div>`;
-                                })}
-                            </div>
-                    `
-                      )}`;
+                    <h1>Язык: ${group.name}</h1>
+                    ${renderMap(group.groups, (report) => {
+                      return `
+                        <div>
+                            <h2><strong>Файл:</strong> ${report.name}</h2>
+                            ${report.reports.map((reportItem) => {
+                              return `
+                                    <br>
+                                    <div>
+                                        <span><strong>Уровень проблемы:</strong> ${reportItem.problem.severity}</span><br>
+                                        <span><strong>Файл:</strong> ${reportItem.file}:${reportItem.line}</span><br>
+                                        <span><strong>Описание проблемы:</strong> ${reportItem.description} [${reportItem.problem.text}]</span><br>
+                                        <span><strong>Часть кода в которой возникла ошибка:</strong> ${reportItem.highlightedElement}</span>
+                                    </div>
+                                  `;
+                            })}
+                        </div>
+                      `;
                     })}
+                    <br>
                 </div>
             `;
         })}
