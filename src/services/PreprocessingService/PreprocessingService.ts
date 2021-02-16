@@ -22,9 +22,9 @@ interface PreprocessingFormattingDataInterface {
     parsedData: ParsedXmlFileInterface;
 }
 
-export type PreformatDataInterface = FormattedReportsInterface<FormattedParsedByProblemsFileInterface[]
+export type PreformatDataInterface =
+    FormattedReportsInterface<FormattedParsedByProblemsFileInterface[]
     | FormattedDataByDuplicatesParamsInterface[][]>[];
-
 
 export type MapTypeTranslations = {[key: string]: string};
 
@@ -38,7 +38,6 @@ class PreprocessingService implements PreprocessServiceInterface {
     mapTranslations: {[key: string]: string} | undefined;
 
     constructor(mapTranslations?: MapTypeTranslations) {
-        if(!mapTranslations) return;
         this.mapTranslations = mapTranslations;
     }
 
