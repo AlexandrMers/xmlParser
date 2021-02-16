@@ -12,17 +12,17 @@ const xmlFetcher = new XmlFetcher({
 });
 
 export const mapTranslations = {
-        ClassOverridesFieldOfSuperClassInspection: "Переопределение полей суперкласса PHP",
-        MultipleReturnStatementsInspection: "Множественные точки возврата в методах классов PHP",
-        PhpDynamicAsStaticMethodCallInspection: "Динамические методы классов используются, как статические PHP",
-        PhpLanguageLevelInspection: "Синтаксические ошибки PHP",
-        PhpMethodParametersCountMismatchInspection: "Несоответствие количества объявленных параметров используемым в методах PHP",
-        PhpUnusedAliasInspection: "Неиспользуемые импорты в файлах PHP",
-        PhpUnusedLocalVariableInspection: "Неиспользуемые переменные в файлах PHP",
-        PhpUnusedParameterInspection: "Неиспользуемые параметры в методах PHP",
-        PhpUnusedPrivateFieldInspection: "Неиспользуемые приватные поля классов PHP",
-        PhpUnusedPrivateMethodInspection: "Неиспользуемые приватные методы классов PHP",
-        SenselessProxyMethodInspection: "Бессмысленные прокси методы PHP"
+    ClassOverridesFieldOfSuperClassInspection: "Переопределение полей суперкласса PHP",
+    MultipleReturnStatementsInspection: "Множественные точки возврата в методах классов PHP",
+    PhpDynamicAsStaticMethodCallInspection: "Динамические методы классов используются, как статические PHP",
+    PhpLanguageLevelInspection: "Синтаксические ошибки PHP",
+    PhpMethodParametersCountMismatchInspection: "Несоответствие количества объявленных параметров используемым в методах PHP",
+    PhpUnusedAliasInspection: "Неиспользуемые импорты в файлах PHP",
+    PhpUnusedLocalVariableInspection: "Неиспользуемые переменные в файлах PHP",
+    PhpUnusedParameterInspection: "Неиспользуемые параметры в методах PHP",
+    PhpUnusedPrivateFieldInspection: "Неиспользуемые приватные поля классов PHP",
+    PhpUnusedPrivateMethodInspection: "Неиспользуемые приватные методы классов PHP",
+    SenselessProxyMethodInspection: "Бессмысленные прокси методы PHP"
 }
 
 const preprocessService = new PreprocessingService(mapTranslations);
@@ -48,6 +48,6 @@ const getFormattedData = async () => {
         ]
     );
 
-    viewBuilder.render(aggregatedData);
+    viewBuilder.render(aggregatedData, 'parsedData');
 };
 getFormattedData();

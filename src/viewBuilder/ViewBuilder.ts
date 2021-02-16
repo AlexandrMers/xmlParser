@@ -37,8 +37,8 @@ class ViewBuilder implements ViewBuilderInterface {
         this.viewer  = new mapViewBuilder[viewType];
     }
 
-    public render(data: AggregatedReportsInterface[]) {
-        return this.viewer.render(data);
+    public render(data: AggregatedReportsInterface[], generatedFileName?: string) {
+        return this.viewer.render(data, generatedFileName);
     };
 
 }

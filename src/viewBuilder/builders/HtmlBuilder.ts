@@ -1,32 +1,9 @@
-import {AggregatedReportsInterface} from "../../services/AggregateDataService/AggregateDataService";
 import * as fs from "fs";
+import path from "path";
 
-const buildTemplate = (appendHtml: string): string => {
-    return `
-    <!DOCTYPE html>
-    <html lang="en">
-        <head>
-            <meta charset="UTF-8">
-            <title>Title</title>
-        </head>
-        <body>
-            <div>
-                ${appendHtml}
-            </div>
-        </body>
-    </html>
-`
-};
+import {AggregatedReportsInterface} from "../../services/AggregateDataService/AggregateDataService";
 
-const renderMap = <ArrayType, ReturnType>(
-    array: ArrayType[],
-    callback: (
-        item: ArrayType,
-        index: number,
-        array: ArrayType[]
-    ) => ReturnType
-) =>
-    array.map(callback).join(" ");
+import {buildTemplate, renderMap} from "./helpers";
 
 const renderTemplateByData = (data: AggregatedReportsInterface[]): string =>
     `<div>
@@ -58,9 +35,9 @@ const renderTemplateByData = (data: AggregatedReportsInterface[]): string =>
 class HtmlBuilder {
     private renderTemplate = buildTemplate;
 
-    public render(data: AggregatedReportsInterface[]): string {
+    public render(data: AggregatedReportsInterface[], generatedFileName: string = 'index'): string {
         const renderData = this.renderTemplate(renderTemplateByData(data));
-        fs.writeFile('./index.html', renderData, function (err) {
+        fs.writeFile(path.join(__dirname, '../../', `generatedFiles/${generatedFileName}.html`), renderData, function (err) {
             if (err) return console.log(err);
             console.log('Успешно сгенерирован html файл');
         });
