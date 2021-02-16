@@ -1,0 +1,1514 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php</file>
+  <line>54</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'mode'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$mode</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php</file>
+  <line>76</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'companyId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$companyId</highlighted_element>
+  <language>PHP</language>
+  <offset>89</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php</file>
+  <line>76</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'requestType'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$requestType</highlighted_element>
+  <language>PHP</language>
+  <offset>101</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php</file>
+  <line>96</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'companyId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$companyId</highlighted_element>
+  <language>PHP</language>
+  <offset>87</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php</file>
+  <line>96</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variantId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variantId</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php</file>
+  <line>171</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'userId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$userId</highlighted_element>
+  <language>PHP</language>
+  <offset>69</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php</file>
+  <line>171</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variantId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variantId</highlighted_element>
+  <language>PHP</language>
+  <offset>28</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php</file>
+  <line>210</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variant'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variant</highlighted_element>
+  <language>PHP</language>
+  <offset>68</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AviaService.php</file>
+  <line>2239</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AviaService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'sessionId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$sessionId</highlighted_element>
+  <language>PHP</language>
+  <offset>36</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AviaService.php</file>
+  <line>6019</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AviaService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variantId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variantId</highlighted_element>
+  <language>PHP</language>
+  <offset>43</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AviaService.php</file>
+  <line>6036</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AviaService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'PCC'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$PCC</highlighted_element>
+  <language>PHP</language>
+  <offset>37</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>223</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'mode'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$mode</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>947</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variantDataReq'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variantDataReq</highlighted_element>
+  <language>PHP</language>
+  <offset>99</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>947</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'companyId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$companyId</highlighted_element>
+  <language>PHP</language>
+  <offset>87</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>947</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'seatsInf'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$seatsInf</highlighted_element>
+  <language>PHP</language>
+  <offset>76</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>947</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'seatsChd'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$seatsChd</highlighted_element>
+  <language>PHP</language>
+  <offset>65</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>947</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'seatsAdt'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$seatsAdt</highlighted_element>
+  <language>PHP</language>
+  <offset>54</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>1374</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'userId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$userId</highlighted_element>
+  <language>PHP</language>
+  <offset>82</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>2734</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'validatingCarrier'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$validatingCarrier</highlighted_element>
+  <language>PHP</language>
+  <offset>47</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>2883</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variant'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variant</highlighted_element>
+  <language>PHP</language>
+  <offset>75</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>3152</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'countAdt'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$countAdt</highlighted_element>
+  <language>PHP</language>
+  <offset>65</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>3977</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'pnr'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$pnr</highlighted_element>
+  <language>PHP</language>
+  <offset>57</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Acquiring/Themap.php</file>
+  <line>191</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Acquiring/Themap.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'email'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$email</highlighted_element>
+  <language>PHP</language>
+  <offset>85</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Acquiring/Themap.php</file>
+  <line>191</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Acquiring/Themap.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'phone'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$phone</highlighted_element>
+  <language>PHP</language>
+  <offset>70</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Acquiring/Themap.php</file>
+  <line>191</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Acquiring/Themap.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'ip'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$ip</highlighted_element>
+  <language>PHP</language>
+  <offset>58</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Acquiring/Themap.php</file>
+  <line>262</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Acquiring/Themap.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'gds'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$gds</highlighted_element>
+  <language>PHP</language>
+  <offset>56</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/UserGroupTable.php</file>
+  <line>111</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/UserGroupTable.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'companyId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$companyId</highlighted_element>
+  <language>PHP</language>
+  <offset>67</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/OrderTable.php</file>
+  <line>428</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/OrderTable.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'count'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$count</highlighted_element>
+  <language>PHP</language>
+  <offset>141</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/OrderTable.php</file>
+  <line>760</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/OrderTable.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'dateTo'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$dateTo</highlighted_element>
+  <language>PHP</language>
+  <offset>65</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/OrderTable.php</file>
+  <line>760</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/OrderTable.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'dateFrom'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$dateFrom</highlighted_element>
+  <language>PHP</language>
+  <offset>46</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/CompanyTable.php</file>
+  <line>86</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/CompanyTable.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'key'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$key</highlighted_element>
+  <language>PHP</language>
+  <offset>47</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/CompanyTable.php</file>
+  <line>198</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/CompanyTable.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'withoutSubagentChilds'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$withoutSubagentChilds</highlighted_element>
+  <language>PHP</language>
+  <offset>101</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/SearchResultTable.php</file>
+  <line>141</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/SearchResultTable.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'isArbitrary'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$isArbitrary</highlighted_element>
+  <language>PHP</language>
+  <offset>60</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/CompanyAirlinesTable.php</file>
+  <line>73</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/CompanyAirlinesTable.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'index'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$index</highlighted_element>
+  <language>PHP</language>
+  <offset>45</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/WebServiceController.php</file>
+  <line>484</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/WebServiceController.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'requestType'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$requestType</highlighted_element>
+  <language>PHP</language>
+  <offset>34</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/GdsController.php</file>
+  <line>586</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/GdsController.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'PCC'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$PCC</highlighted_element>
+  <language>PHP</language>
+  <offset>34</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelTable.php</file>
+  <line>33</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelTable.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'index'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$index</highlighted_element>
+  <language>PHP</language>
+  <offset>45</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelMarginTable.php</file>
+  <line>55</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelMarginTable.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'accountId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$accountId</highlighted_element>
+  <language>PHP</language>
+  <offset>45</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ArbitraryService.php</file>
+  <line>2678</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ArbitraryService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'nds18'. The parameter's value is overwritten immediately.</description>
+  <highlighted_element>$nds18</highlighted_element>
+  <language>PHP</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ArbitraryService.php</file>
+  <line>2677</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ArbitraryService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'nds10'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$nds10</highlighted_element>
+  <language>PHP</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InfoServiceAdmin.php</file>
+  <line>282</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InfoServiceAdmin.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'aircraftName'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$aircraftName</highlighted_element>
+  <language>PHP</language>
+  <offset>74</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InfoServiceAdmin.php</file>
+  <line>282</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InfoServiceAdmin.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'aircraftIata'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$aircraftIata</highlighted_element>
+  <language>PHP</language>
+  <offset>59</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InfoServiceAdmin.php</file>
+  <line>282</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InfoServiceAdmin.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'aircraftId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$aircraftId</highlighted_element>
+  <language>PHP</language>
+  <offset>46</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InfoService.php</file>
+  <line>279</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InfoService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'sessionId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$sessionId</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InfoService.php</file>
+  <line>443</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InfoService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'sessionId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$sessionId</highlighted_element>
+  <language>PHP</language>
+  <offset>33</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ReportService.php</file>
+  <line>1136</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ReportService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'sessionId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$sessionId</highlighted_element>
+  <language>PHP</language>
+  <offset>32</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ReportService.php</file>
+  <line>1194</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ReportService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'sessionId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$sessionId</highlighted_element>
+  <language>PHP</language>
+  <offset>33</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php</file>
+  <line>1088</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'customerId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$customerId</highlighted_element>
+  <language>PHP</language>
+  <offset>152</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php</file>
+  <line>1088</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'isRetail'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$isRetail</highlighted_element>
+  <language>PHP</language>
+  <offset>141</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php</file>
+  <line>2622</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'userId'. The parameter's value is overwritten immediately.</description>
+  <highlighted_element>$userId</highlighted_element>
+  <language>PHP</language>
+  <offset>65</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php</file>
+  <line>4394</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'sessionId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$sessionId</highlighted_element>
+  <language>PHP</language>
+  <offset>31</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php</file>
+  <line>4544</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'sessionId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$sessionId</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/hotelSearch.php</file>
+  <line>170</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/hotelSearch.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'isSubRequest'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$isSubRequest</highlighted_element>
+  <language>PHP</language>
+  <offset>101</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/DocumentService.php</file>
+  <line>290</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/DocumentService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'documentSeries'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$documentSeries</highlighted_element>
+  <language>PHP</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/DocumentService.php</file>
+  <line>294</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/DocumentService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'documentNationality'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$documentNationality</highlighted_element>
+  <language>PHP</language>
+  <offset>8</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/DocumentService.php</file>
+  <line>293</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/DocumentService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'documentCountry'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$documentCountry</highlighted_element>
+  <language>PHP</language>
+  <offset>8</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/PaymentService.php</file>
+  <line>691</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/PaymentService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'sessionId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$sessionId</highlighted_element>
+  <language>PHP</language>
+  <offset>28</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Payment/Drivers/Payonline.php</file>
+  <line>97</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Payment/Drivers/Payonline.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'transactionId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$transactionId</highlighted_element>
+  <language>PHP</language>
+  <offset>29</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Transaction.php</file>
+  <line>19</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Transaction.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'type'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$type</highlighted_element>
+  <language>PHP</language>
+  <offset>39</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Order.php</file>
+  <line>15</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Order.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'serviceId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$serviceId</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Order.php</file>
+  <line>45</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Order.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'serviceId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$serviceId</highlighted_element>
+  <language>PHP</language>
+  <offset>37</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Order.php</file>
+  <line>49</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Order.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'serviceId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$serviceId</highlighted_element>
+  <language>PHP</language>
+  <offset>40</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Order.php</file>
+  <line>53</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Order.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'serviceId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$serviceId</highlighted_element>
+  <language>PHP</language>
+  <offset>41</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia.php</file>
+  <line>456</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'searchId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$searchId</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Integration/FileStorage.php</file>
+  <line>32</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Integration/FileStorage.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'fileExt'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$fileExt</highlighted_element>
+  <language>PHP</language>
+  <offset>31</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/TravelPolicyUtility.php</file>
+  <line>186</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/TravelPolicyUtility.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'action'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$action</highlighted_element>
+  <language>PHP</language>
+  <offset>73</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/SabreRemarks.php</file>
+  <line>14</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/SabreRemarks.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'hosted'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$hosted</highlighted_element>
+  <language>PHP</language>
+  <offset>86</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Company/ReasonCode.php</file>
+  <line>373</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Company/ReasonCode.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'company_id'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$company_id</highlighted_element>
+  <language>PHP</language>
+  <offset>27</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Insurance/PrintPolicy.php</file>
+  <line>27</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Insurance/PrintPolicy.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'doctype'. The parameter's value is overwritten immediately.</description>
+  <highlighted_element>$doctype</highlighted_element>
+  <language>PHP</language>
+  <offset>53</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Company/Loaders/Parsers/CompanyParser.php</file>
+  <line>126</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Company/Loaders/Parsers/CompanyParser.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'cell'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$cell</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/FileUpload/Upload.php</file>
+  <line>49</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/FileUpload/Upload.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'adapter'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$adapter</highlighted_element>
+  <language>PHP</language>
+  <offset>32</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/HotelMulti/BookedHotelsCostChecker.php</file>
+  <line>331</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/HotelMulti/BookedHotelsCostChecker.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'companyId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$companyId</highlighted_element>
+  <language>PHP</language>
+  <offset>56</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Aeroexpress/AeroexpressAvailableTariffs.php</file>
+  <line>81</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Aeroexpress/AeroexpressAvailableTariffs.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'date'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$date</highlighted_element>
+  <language>PHP</language>
+  <offset>39</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php</file>
+  <line>699</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'key'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$key</highlighted_element>
+  <language>PHP</language>
+  <offset>47</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/BspCommission.php</file>
+  <line>45</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/BspCommission.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'companyId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$companyId</highlighted_element>
+  <language>PHP</language>
+  <offset>73</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php</file>
+  <line>42</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'mode'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$mode</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php</file>
+  <line>64</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'requestType'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$requestType</highlighted_element>
+  <language>PHP</language>
+  <offset>104</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php</file>
+  <line>902</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'userId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$userId</highlighted_element>
+  <language>PHP</language>
+  <offset>70</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php</file>
+  <line>902</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'serviceId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$serviceId</highlighted_element>
+  <language>PHP</language>
+  <offset>54</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php</file>
+  <line>2456</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'issue'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$issue</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Itm.php</file>
+  <line>54</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Itm.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'stops'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$stops</highlighted_element>
+  <language>PHP</language>
+  <offset>69</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Itm.php</file>
+  <line>54</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Itm.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'requestType'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$requestType</highlighted_element>
+  <language>PHP</language>
+  <offset>100</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Itm.php</file>
+  <line>454</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Itm.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'userId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$userId</highlighted_element>
+  <language>PHP</language>
+  <offset>70</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Itm.php</file>
+  <line>890</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Itm.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'forced'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$forced</highlighted_element>
+  <language>PHP</language>
+  <offset>43</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php</file>
+  <line>55</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'mode'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$mode</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php</file>
+  <line>129</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variantId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variantId</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php</file>
+  <line>217</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'userId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$userId</highlighted_element>
+  <language>PHP</language>
+  <offset>69</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php</file>
+  <line>217</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'serviceId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$serviceId</highlighted_element>
+  <language>PHP</language>
+  <offset>53</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php</file>
+  <line>217</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variantId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variantId</highlighted_element>
+  <language>PHP</language>
+  <offset>28</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php</file>
+  <line>305</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variant'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variant</highlighted_element>
+  <language>PHP</language>
+  <offset>68</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php</file>
+  <line>305</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'aviaServiceId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$aviaServiceId</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Crane.php</file>
+  <line>48</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Crane.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'companyId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$companyId</highlighted_element>
+  <language>PHP</language>
+  <offset>88</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Crane.php</file>
+  <line>48</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Crane.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'stops'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$stops</highlighted_element>
+  <language>PHP</language>
+  <offset>69</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Crane.php</file>
+  <line>48</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Crane.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'requestType'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$requestType</highlighted_element>
+  <language>PHP</language>
+  <offset>100</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Crane.php</file>
+  <line>666</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Crane.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'userId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$userId</highlighted_element>
+  <language>PHP</language>
+  <offset>76</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Crane.php</file>
+  <line>1241</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Crane.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'forced'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$forced</highlighted_element>
+  <language>PHP</language>
+  <offset>47</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php</file>
+  <line>594</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variantId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variantId</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php</file>
+  <line>2257</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'sessionId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$sessionId</highlighted_element>
+  <language>PHP</language>
+  <offset>70</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php</file>
+  <line>2257</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'serviceId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$serviceId</highlighted_element>
+  <language>PHP</language>
+  <offset>54</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php</file>
+  <line>3918</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'mode'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$mode</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php</file>
+  <line>4065</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'companyId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$companyId</highlighted_element>
+  <language>PHP</language>
+  <offset>89</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php</file>
+  <line>4065</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'jointId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$jointId</highlighted_element>
+  <language>PHP</language>
+  <offset>126</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php</file>
+  <line>4106</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'companyId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$companyId</highlighted_element>
+  <language>PHP</language>
+  <offset>79</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7/Book.php</file>
+  <line>245</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/S7/Book.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'countInf'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$countInf</highlighted_element>
+  <language>PHP</language>
+  <offset>73</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/QueueList/QueueListProcess.php</file>
+  <line>41</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/QueueList/QueueListProcess.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'PNR'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$PNR</highlighted_element>
+  <language>PHP</language>
+  <offset>29</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/PriceUpsell/PriceUpsellRequest.php</file>
+  <line>23</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/PriceUpsell/PriceUpsellRequest.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'seatsInf'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$seatsInf</highlighted_element>
+  <language>PHP</language>
+  <offset>66</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/PriceUpsell/PriceUpsellRequest.php</file>
+  <line>23</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/PriceUpsell/PriceUpsellRequest.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'seatsChd'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$seatsChd</highlighted_element>
+  <language>PHP</language>
+  <offset>55</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/PriceUpsell/PriceUpsellRequest.php</file>
+  <line>23</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/PriceUpsell/PriceUpsellRequest.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'seatsAdt'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$seatsAdt</highlighted_element>
+  <language>PHP</language>
+  <offset>44</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/PriceUpsell/PriceUpsellRequest.php</file>
+  <line>23</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/PriceUpsell/PriceUpsellRequest.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variantId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variantId</highlighted_element>
+  <language>PHP</language>
+  <offset>32</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Hotel/Ostrovok.php</file>
+  <line>51</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Hotel/Ostrovok.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'children'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$children</highlighted_element>
+  <language>PHP</language>
+  <offset>73</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Hotel/Ostrovok.php</file>
+  <line>342</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Hotel/Ostrovok.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'format'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$format</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/AviaCenterTrain.php</file>
+  <line>465</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/AviaCenterTrain.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'orderId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$orderId</highlighted_element>
+  <language>PHP</language>
+  <offset>35</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TrainApi.php</file>
+  <line>116</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TrainApi.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'serviceManager'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$serviceManager</highlighted_element>
+  <language>PHP</language>
+  <offset>44</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TrainApi.php</file>
+  <line>1431</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TrainApi.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'serviceId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$serviceId</highlighted_element>
+  <language>PHP</language>
+  <offset>32</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TrainApi.php</file>
+  <line>1686</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TrainApi.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'real'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$real</highlighted_element>
+  <language>PHP</language>
+  <offset>78</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TrainApi.php</file>
+  <line>1825</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TrainApi.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'num'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$num</highlighted_element>
+  <language>PHP</language>
+  <offset>52</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/Onelya/Cancel.php</file>
+  <line>58</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/Onelya/Cancel.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'response'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$response</highlighted_element>
+  <language>PHP</language>
+  <offset>34</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/Onelya/RequestFactory.php</file>
+  <line>284</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/Onelya/RequestFactory.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'blankId'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$blankId</highlighted_element>
+  <language>PHP</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Search.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Search.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'request'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$request</highlighted_element>
+  <language>PHP</language>
+  <offset>39</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/RequestFactory.php</file>
+  <line>675</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/RequestFactory.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'PassengerXml'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$PassengerXml</highlighted_element>
+  <language>PHP</language>
+  <offset>41</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/AviaCenter/Search/Search.php</file>
+  <line>27</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/AviaCenter/Search/Search.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'nonRefundable'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$nonRefundable</highlighted_element>
+  <language>PHP</language>
+  <offset>15</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/AviaCenter/TrainInfo/TrainInfoResult.php</file>
+  <line>37</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/AviaCenter/TrainInfo/TrainInfoResult.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'variant'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$variant</highlighted_element>
+  <language>PHP</language>
+  <offset>44</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Transfer/Iway.php</file>
+  <line>308</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Transfer/Iway.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'data'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$data</highlighted_element>
+  <language>PHP</language>
+  <offset>33</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Insurance/Ingosstrah.php</file>
+  <line>35</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Insurance/Ingosstrah.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'mode'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$mode</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Console/Command/ConsoleCommand.php</file>
+  <line>85</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Console/Command/ConsoleCommand.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'output'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$output</highlighted_element>
+  <language>PHP</language>
+  <offset>71</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Console/Command/ConsoleCommand.php</file>
+  <line>85</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Console/Command/ConsoleCommand.php" />
+  <problem_class id="PhpUnusedParameterInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused parameter</problem_class>
+  <description>Unused parameter 'input'. The parameter's value is not used anywhere.</description>
+  <highlighted_element>$input</highlighted_element>
+  <language>PHP</language>
+  <offset>47</offset>
+  <length>6</length>
+</problem>
+</problems>

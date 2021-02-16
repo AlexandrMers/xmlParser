@@ -1,0 +1,2078 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/MailManager.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/MailManager.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Hotel\PaxportHotel' is never used</description>
+  <highlighted_element>Application\Model\Connector\Hotel\PaxportHotel</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>46</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBRow/Hotel/HotelMultiService.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBRow/Hotel/HotelMultiService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Gearman\GearmanManager' is never used</description>
+  <highlighted_element>Application\Model\Gearman\GearmanManager</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBRow/Hotel/HotelService.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBRow/Hotel/HotelService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBTable\SessionTable' is never used</description>
+  <highlighted_element>Application\Model\DBTable\SessionTable</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBRow/Hotel/HotelService.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBRow/Hotel/HotelService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Gearman\GearmanManager' is never used</description>
+  <highlighted_element>Application\Model\Gearman\GearmanManager</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBRow/Hotel/HotelService.php</file>
+  <line>19</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBRow/Hotel/HotelService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\Acquiring\TheMapAcquiringRequestHandler' is never used</description>
+  <highlighted_element>Application\Model\Utility\Acquiring\TheMapAcquiringRequestHandler</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>65</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBRow/Hotel/Ostrovok/HotelService.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBRow/Hotel/Ostrovok/HotelService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Gearman\GearmanManager' is never used</description>
+  <highlighted_element>Application\Model\Gearman\GearmanManager</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Health/HealthCheck.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Health/HealthCheck.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Health\Checks\CheckInterface' is never used</description>
+  <highlighted_element>Application\Model\Health\Checks\CheckInterface</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>46</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Health/HealthCheck.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Health/HealthCheck.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Health\Exceptions\CheckException' is never used</description>
+  <highlighted_element>Application\Model\Health\Exceptions\CheckException</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>50</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Health/Checks/DBConnection.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Health/Checks/DBConnection.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Config\Config' is never used</description>
+  <highlighted_element>Zend\Config\Config</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/ArbitraryCustomerTable.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/ArbitraryCustomerTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/DocumentTable.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/DocumentTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\ResultSet\ResultSet' is never used</description>
+  <highlighted_element>Zend\Db\ResultSet\ResultSet</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/EmailEventTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/EmailEventTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/EmailEventTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/EmailEventTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/StatisticsTable.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/StatisticsTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/StatisticsTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/StatisticsTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/AnalyticTemplatesTable.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/AnalyticTemplatesTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\ResultSet\ResultSet' is never used</description>
+  <highlighted_element>Zend\Db\ResultSet\ResultSet</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/ArbitraryServiceTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/ArbitraryServiceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/BaseTable.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/BaseTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/BaseTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/BaseTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/BaseTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/BaseTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Adapter\Adapter' is never used</description>
+  <highlighted_element>Zend\Db\Adapter\Adapter</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/BaseTable.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/BaseTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\ResultSet\ResultSet' is never used</description>
+  <highlighted_element>Zend\Db\ResultSet\ResultSet</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/BaseTable.php</file>
+  <line>10</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/BaseTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Adapter\AdapterAwareInterface' is never used</description>
+  <highlighted_element>Zend\Db\Adapter\AdapterAwareInterface</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/ServiceTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/ServiceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\PHPMailer\Exception' is never used</description>
+  <highlighted_element>Application\Model\PHPMailer\Exception</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/MailTemplateTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/MailTemplateTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avo/ServiceTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avo/ServiceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/AirlineTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/AirlineTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Predicate\Predicate' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Predicate\Predicate</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/SearchResult/RelTable.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/SearchResult/RelTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/SearchResult/RelTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/SearchResult/RelTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/SearchResult/RelTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/SearchResult/RelTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/SearchResult/SegmentTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Avia/SearchResult/SegmentTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>5</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Avia\Sabre' is never used</description>
+  <highlighted_element>Application\Model\Connector\Avia\Sabre</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Avia\Sirena' is never used</description>
+  <highlighted_element>Application\Model\Connector\Avia\Sirena</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>13</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Transaction' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Transaction</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>15</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Account' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Account</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>16</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBTable\AccountTable' is never used</description>
+  <highlighted_element>Application\Model\DBTable\AccountTable</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>18</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBTable\Order\AnalyticTable' is never used</description>
+  <highlighted_element>Application\Model\DBTable\Order\AnalyticTable</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>45</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>23</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Logger\DefaultWriter' is never used</description>
+  <highlighted_element>Application\Model\Logger\DefaultWriter</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>27</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\OuterExport\ServiceExportResult' is never used</description>
+  <highlighted_element>Application\Model\OuterExport\ServiceExportResult</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>49</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>28</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\OuterExport\ServiceExportResultInterface' is never used</description>
+  <highlighted_element>Application\Model\OuterExport\ServiceExportResultInterface</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>58</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>31</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\SupplyReports\Export\Export' is never used</description>
+  <highlighted_element>Application\Model\Utility\SupplyReports\Export\Export</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>53</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/TaskTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/TaskTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/TaskTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/TaskTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceCitiesTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceCitiesTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceCitiesTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceCitiesTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelServiceImageTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelServiceImageTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelServiceImageTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelServiceImageTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceHotelsTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceHotelsTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceHotelsTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceHotelsTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HashTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HashTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceAmenitiesTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceAmenitiesTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceAmenitiesTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/AcademServiceAmenitiesTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelRoomGroupImageTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelRoomGroupImageTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelRoomGroupImageTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/HotelRoomGroupImageTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/Ostrovok/HotelServiceImageTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/Ostrovok/HotelServiceImageTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/Ostrovok/HotelServiceImageTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/Ostrovok/HotelServiceImageTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/Ostrovok/HashTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Hotel/Ostrovok/HashTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Order/AnalyticTable.php</file>
+  <line>4</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Order/AnalyticTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Train/RailwayLocationTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Train/RailwayLocationTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Train/RailwayLocationTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Train/RailwayLocationTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Train/Ufs/AsuStationTable.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Train/Ufs/AsuStationTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Dialog/ListUserTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Dialog/ListUserTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Dialog/ListUserTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Dialog/ListUserTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Company/CompanyToggleTable.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Company/CompanyToggleTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Company\CompanyPaymentAccount' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Company\CompanyPaymentAccount</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>53</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Transfer/TransferCustomerTable.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Transfer/TransferCustomerTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Transfer/Iway/PlaceTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Transfer/Iway/PlaceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Transfer/Iway/PlaceTable.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Transfer/Iway/PlaceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Insurance/CountryTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Insurance/CountryTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Insurance/CountryTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Insurance/CountryTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Insurance/ServiceTable.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Insurance/ServiceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Insurance/CustomerTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Insurance/CustomerTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Aeroexpress/ServiceTable.php</file>
+  <line>5</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Aeroexpress/ServiceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Expression' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Expression</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Aeroexpress/ServiceTable.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Aeroexpress/ServiceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Predicate\Between' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Predicate\Between</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Aeroexpress/ServiceTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Aeroexpress/ServiceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Predicate\In' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Predicate\In</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Aeroexpress/ServiceTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Aeroexpress/ServiceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Predicate\NotIn' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Predicate\NotIn</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Aeroexpress/ServiceTable.php</file>
+  <line>11</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Aeroexpress/ServiceTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/HotelUpdate/HotelRoomGroupImageTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/HotelUpdate/HotelRoomGroupImageTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/HotelUpdate/HotelRoomGroupImageTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/HotelUpdate/HotelRoomGroupImageTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/TravelPolicy/BlockTable.php</file>
+  <line>15</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/TravelPolicy/BlockTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\ResultSet\ResultSet' is never used</description>
+  <highlighted_element>Zend\Db\ResultSet\ResultSet</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Elastic/OrdersClient.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Elastic/OrdersClient.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Logger\PsrLogger' is never used</description>
+  <highlighted_element>Application\Model\Logger\PsrLogger</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/TravelPolicy/CustomTravelPolicyTable.php</file>
+  <line>15</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/TravelPolicy/CustomTravelPolicyTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Sql' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Sql</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/TravelPolicy/AnalyticsCodesTable.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/TravelPolicy/AnalyticsCodesTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\ResultSet\ResultSet' is never used</description>
+  <highlighted_element>Zend\Db\ResultSet\ResultSet</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/TravelPolicy/AnalyticsCodesTable.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/TravelPolicy/AnalyticsCodesTable.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Expression' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Expression</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ArbitraryService.php</file>
+  <line>26</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ArbitraryService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Gearman\GearmanManager' is never used</description>
+  <highlighted_element>Application\Model\Gearman\GearmanManager</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ReportexportService.php</file>
+  <line>13</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/ReportexportService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\ServiceManager\ServiceLocatorInterface' is never used</description>
+  <highlighted_element>Zend\ServiceManager\ServiceLocatorInterface</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>43</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TrainService.php</file>
+  <line>31</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TrainService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Gearman\GearmanManager' is never used</description>
+  <highlighted_element>Application\Model\Gearman\GearmanManager</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TrainService.php</file>
+  <line>32</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TrainService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Logger\Context\ContextTypes' is never used</description>
+  <highlighted_element>Application\Model\Logger\Context\ContextTypes</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>45</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TrainService.php</file>
+  <line>63</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TrainService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'SimpleXMLElement' is never used</description>
+  <highlighted_element>SimpleXMLElement</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InsuranceService.php</file>
+  <line>5</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InsuranceService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBTable\CurrencyValueTable' is never used</description>
+  <highlighted_element>Application\Model\DBTable\CurrencyValueTable</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>44</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InsuranceService.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/InsuranceService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Gearman\GearmanManager' is never used</description>
+  <highlighted_element>Application\Model\Gearman\GearmanManager</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/SyncCompanyToGroupProfile.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/SyncCompanyToGroupProfile.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Mvc\Service\ServiceManagerConfig' is never used</description>
+  <highlighted_element>Zend\Mvc\Service\ServiceManagerConfig</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/SyncUserToTravelerProfile.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/SyncUserToTravelerProfile.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Mvc\Service\ServiceManagerConfig' is never used</description>
+  <highlighted_element>Zend\Mvc\Service\ServiceManagerConfig</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/totalWithout3D.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/totalWithout3D.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Cache\StorageFactory' is never used</description>
+  <highlighted_element>Zend\Cache\StorageFactory</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/totalWithout3D.php</file>
+  <line>13</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/totalWithout3D.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Config\Config' is never used</description>
+  <highlighted_element>Zend\Config\Config</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/addAviaReasonCodes.php</file>
+  <line>10</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Gearman/Task/addAviaReasonCodes.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Logger\PsrLogger' is never used</description>
+  <highlighted_element>Application\Model\Logger\PsrLogger</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/CardService.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/CardService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\OuterImport\Parser\SabreParser' is never used</description>
+  <highlighted_element>Application\Model\OuterImport\Parser\SabreParser</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>48</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/CardService.php</file>
+  <line>10</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/CardService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\OuterImport\Reader\ReaderResult' is never used</description>
+  <highlighted_element>Application\Model\OuterImport\Reader\ReaderResult</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>49</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AeroexpressService.php</file>
+  <line>22</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AeroexpressService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Gearman\GearmanManager' is never used</description>
+  <highlighted_element>Application\Model\Gearman\GearmanManager</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AeroexpressService.php</file>
+  <line>24</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AeroexpressService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\PHPMailer\Exception' is never used</description>
+  <highlighted_element>Application\Model\PHPMailer\Exception</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Storage/PredisOptions.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Storage/PredisOptions.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Cache\Exception' is never used</description>
+  <highlighted_element>Zend\Cache\Exception</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'PhpOffice\PhpSpreadsheet\Exception' is never used</description>
+  <highlighted_element>PhpOffice\PhpSpreadsheet\Exception</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterExport/ServiceExporter.php</file>
+  <line>5</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterExport/ServiceExporter.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Company' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Company</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterExport/ServiceExporter.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterExport/ServiceExporter.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Transaction' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Transaction</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/OuterImporter.php</file>
+  <line>11</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/OuterImporter.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\OuterImport\Reader\ReaderResultInterfaces' is never used</description>
+  <highlighted_element>Application\Model\OuterImport\Reader\ReaderResultInterfaces</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>59</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/TravelPolicyUtility.php</file>
+  <line>14</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/TravelPolicyUtility.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\TravelPolicy\Block' is never used</description>
+  <highlighted_element>Application\Model\DBRow\TravelPolicy\Block</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>42</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/TravelPolicyViolationCodes.php</file>
+  <line>4</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/TravelPolicyViolationCodes.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\TravelPolicy\ViolationCodes' is never used</description>
+  <highlighted_element>Application\Model\DBRow\TravelPolicy\ViolationCodes</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>51</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/TravelPolicyViolationCodes.php</file>
+  <line>5</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/TravelPolicyViolationCodes.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\AbstractRow' is never used</description>
+  <highlighted_element>Application\Model\DBRow\AbstractRow</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/CustomTravelPolicyHelper.php</file>
+  <line>13</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/CustomTravelPolicyHelper.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBTable\TravelPolicy\CustomTravelPolicyValueTable' is never used</description>
+  <highlighted_element>Application\Model\DBTable\TravelPolicy\CustomTravelPolicyValueTable</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>67</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Admin/CalendarDaysFillData.php</file>
+  <line>5</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Admin/CalendarDaysFillData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Service\Base\BaseResponse' is never used</description>
+  <highlighted_element>Application\Model\Service\Base\BaseResponse</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>43</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/HistoryManager/TablesHistory.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/HistoryManager/TablesHistory.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\TableSchema' is never used</description>
+  <highlighted_element>Application\Model\DBRow\TableSchema</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/CompanyPaymentAccountSetter.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/CompanyPaymentAccountSetter.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Company\CompanyPaymentAccount' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Company\CompanyPaymentAccount</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>53</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/BasicReasonCode.php</file>
+  <line>5</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/BasicReasonCode.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Service\Base\BaseResponse' is never used</description>
+  <highlighted_element>Application\Model\Service\Base\BaseResponse</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>43</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Auth/ThrottlesLogins.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Auth/ThrottlesLogins.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBTable\UserTable' is never used</description>
+  <highlighted_element>Application\Model\DBTable\UserTable</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/VoidFeesCalculator.php</file>
+  <line>17</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/VoidFeesCalculator.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'mysql_xdevapi\Exception' is never used</description>
+  <highlighted_element>mysql_xdevapi\Exception</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/AviaBIData.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/AviaBIData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Service\AviaService' is never used</description>
+  <highlighted_element>Application\Model\Service\AviaService</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/PassengerNaming.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/PassengerNaming.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Passenger' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Passenger</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/Search.php</file>
+  <line>17</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/Search.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Gearman\Task\aviaSearch' is never used</description>
+  <highlighted_element>Application\Model\Gearman\Task\aviaSearch</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>41</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Admin/AirlinesSwitcher.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Admin/AirlinesSwitcher.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Select' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Select</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Cards/ChildCards.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Cards/ChildCards.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBTable\Avia\AirlineTable' is never used</description>
+  <highlighted_element>Application\Model\DBTable\Avia\AirlineTable</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>43</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Cards/ChildCards.php</file>
+  <line>10</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Cards/ChildCards.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Predicate\In' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Predicate\In</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Cards/ChildCards.php</file>
+  <line>11</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Cards/ChildCards.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\Sql\Where' is never used</description>
+  <highlighted_element>Zend\Db\Sql\Where</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Users/ChildUsers.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Users/ChildUsers.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBTable\CompanyTable' is never used</description>
+  <highlighted_element>Application\Model\DBTable\CompanyTable</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Company/Analytic.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Company/Analytic.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'ArrayObject' is never used</description>
+  <highlighted_element>ArrayObject</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TravelPolicy/TravelPolicyCopySetter.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TravelPolicy/TravelPolicyCopySetter.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Service\Base\BaseResponse' is never used</description>
+  <highlighted_element>Application\Model\Service\Base\BaseResponse</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>43</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/flightInfoByPnr/GetFlightInfoByPnr.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/flightInfoByPnr/GetFlightInfoByPnr.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Avia\Amadeus' is never used</description>
+  <highlighted_element>Application\Model\Connector\Avia\Amadeus</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/flightInfoByPnr/GetFlightInfoByPnr.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/flightInfoByPnr/GetFlightInfoByPnr.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\Avia\flightInfoByPnr\Connectors\VipService' is never used</description>
+  <highlighted_element>Application\Model\Utility\Avia\flightInfoByPnr\Connectors\VipService</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>68</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/flightInfoByPnr/Connectors/Sig.php</file>
+  <line>18</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/flightInfoByPnr/Connectors/Sig.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\Avia\Tax' is never used</description>
+  <highlighted_element>Application\Model\Utility\Avia\Tax</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Train/Statement/StatementInterface.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Train/Statement/StatementInterface.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Train\Ufs\TrainTicket' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Train\Ufs\TrainTicket</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>45</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Train/Statement/EregStatement.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Train/Statement/EregStatement.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Train\Ufs\TrainTicket' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Train\Ufs\TrainTicket</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>45</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Documents/ChildDocuments.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Documents/ChildDocuments.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Document' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Document</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>32</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/HotelMulti/ChangeService.php</file>
+  <line>22</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/HotelMulti/ChangeService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Gearman\GearmanManager' is never used</description>
+  <highlighted_element>Application\Model\Gearman\GearmanManager</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/HotelMulti/CreatePreBooking.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/HotelMulti/CreatePreBooking.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Hotel\DTO\HotelRoomInfoSetter' is never used</description>
+  <highlighted_element>Application\Model\Connector\Hotel\DTO\HotelRoomInfoSetter</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>57</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/HotelMulti/BookedHotelsCostChecker.php</file>
+  <line>5</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/HotelMulti/BookedHotelsCostChecker.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Account' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Account</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/HotelMulti/BookedHotelsCostChecker.php</file>
+  <line>18</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/HotelMulti/BookedHotelsCostChecker.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\Margin' is never used</description>
+  <highlighted_element>Application\Model\Utility\Margin</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>32</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/Reports/AviaOrderSnapshot.php</file>
+  <line>20</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/Reports/AviaOrderSnapshot.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\SupplyReports\DTO\Passenger' is never used</description>
+  <highlighted_element>Application\Model\Utility\SupplyReports\DTO\Passenger</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>53</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php</file>
+  <line>11</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Hotel\PaxportHotel' is never used</description>
+  <highlighted_element>Application\Model\Connector\Hotel\PaxportHotel</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>46</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Avia\AviaService' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Avia\AviaService</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php</file>
+  <line>14</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Order' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Order</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php</file>
+  <line>15</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Service' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Service</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php</file>
+  <line>25</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Service\Order\Date' is never used</description>
+  <highlighted_element>Application\Model\Service\Order\Date</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>36</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php</file>
+  <line>27</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\SupplyReports\DTO\DopInfo' is never used</description>
+  <highlighted_element>Application\Model\Utility\SupplyReports\DTO\DopInfo</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>51</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php</file>
+  <line>32</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Zend\Db\ResultSet\ResultSet' is never used</description>
+  <highlighted_element>Zend\Db\ResultSet\ResultSet</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/AeroexpressReportData.php</file>
+  <line>21</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/AeroexpressReportData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\Train' is never used</description>
+  <highlighted_element>Application\Model\Utility\Train</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/TrainReportData.php</file>
+  <line>20</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/TrainReportData.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\SupplyReports\DTO\DopInfo' is never used</description>
+  <highlighted_element>Application\Model\Utility\SupplyReports\DTO\DopInfo</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>51</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/BspCommission.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/BspCommission.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Train\Dto\Booking\Passenger' is never used</description>
+  <highlighted_element>Application\Model\Connector\Train\Dto\Booking\Passenger</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>55</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter.php</file>
+  <line>26</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Notification\Notification' is never used</description>
+  <highlighted_element>Application\Model\Notification\Notification</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>43</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/VipService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Gearman\Task\totalWithout3D' is never used</description>
+  <highlighted_element>Application\Model\Gearman\Task\totalWithout3D</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>45</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaConnectorSearchChunkInterface.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaConnectorSearchChunkInterface.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Account' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Account</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig/TicketHelpers.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig/TicketHelpers.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBTable\ServiceFeeTable' is never used</description>
+  <highlighted_element>Application\Model\DBTable\ServiceFeeTable</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>41</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig/Book.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig/Book.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBTable\Avia\SearchResult\RelTable' is never used</description>
+  <highlighted_element>Application\Model\DBTable\Avia\SearchResult\RelTable</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>52</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig/Book.php</file>
+  <line>10</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sig/Book.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\RedisStorage' is never used</description>
+  <highlighted_element>Application\Model\RedisStorage</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/Search/SearchRequest.php</file>
+  <line>20</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/Search/SearchRequest.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\Admin\AirlineCustomDirection' is never used</description>
+  <highlighted_element>Application\Model\Utility\Admin\AirlineCustomDirection</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>54</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/Search/SearchRequest.php</file>
+  <line>21</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/Search/SearchRequest.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\Avia\AirlineCompanySetting' is never used</description>
+  <highlighted_element>Application\Model\Utility\Avia\AirlineCompanySetting</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>52</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/Search/VariantCreator.php</file>
+  <line>14</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/Search/VariantCreator.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\Logger' is never used</description>
+  <highlighted_element>Application\Model\Utility\Logger</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>32</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/Booking/BookingResponse.php</file>
+  <line>10</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/Booking/BookingResponse.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\General' is never used</description>
+  <highlighted_element>Application\Model\Utility\General</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/DeleteTST/DeleteTSTRequest.php</file>
+  <line>7</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/DeleteTST/DeleteTSTRequest.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Amadeus\Client\RequestOptions\Ticket\Pricing' is never used</description>
+  <highlighted_element>Amadeus\Client\RequestOptions\Ticket\Pricing</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>44</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/DeleteTST/DeleteTSTRequest.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/DeleteTST/DeleteTSTRequest.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Amadeus\Client\RequestOptions\TicketCreateTstFromPricingOptions' is never used</description>
+  <highlighted_element>Amadeus\Client\RequestOptions\TicketCreateTstFromPricingOptions</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>63</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/QueueList/QueueListResponse.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/QueueList/QueueListResponse.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\DBRow\Avia\AviaQueue' is never used</description>
+  <highlighted_element>Application\Model\DBRow\Avia\AviaQueue</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/IssueTicket/IssueTicketResponse.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Amadeus/IssueTicket/IssueTicketResponse.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\General' is never used</description>
+  <highlighted_element>Application\Model\Utility\General</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter/Client/AbstractClient.php</file>
+  <line>16</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter/Client/AbstractClient.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\RedisStorage' is never used</description>
+  <highlighted_element>Application\Model\RedisStorage</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter/Booking/Booking.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter/Booking/Booking.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Avia\AviaCenter\Exception\NoFlightsException' is never used</description>
+  <highlighted_element>Application\Model\Connector\Avia\AviaCenter\Exception\NoFlightsException</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>72</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter/Booking/Booking.php</file>
+  <line>10</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter/Booking/Booking.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Avia\AviaCenter\Search\SearchResult' is never used</description>
+  <highlighted_element>Application\Model\Connector\Avia\AviaCenter\Search\SearchResult</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>63</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter/Booking/Booking.php</file>
+  <line>11</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter/Booking/Booking.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Avia\AviaCenter\SearchFares\SearchFaresParams' is never used</description>
+  <highlighted_element>Application\Model\Connector\Avia\AviaCenter\SearchFares\SearchFaresParams</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>73</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Hotel/AcademService.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Hotel/AcademService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Service\Hotel\HotelRegionGetter' is never used</description>
+  <highlighted_element>Application\Model\Service\Hotel\HotelRegionGetter</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>49</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Hotel/DTO/HotelService.php</file>
+  <line>5</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Hotel/DTO/HotelService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Service\TravelPolicy\TravelPolicyUser' is never used</description>
+  <highlighted_element>Application\Model\Service\TravelPolicy\TravelPolicyUser</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>55</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Hotel/DTO/HotelService.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Hotel/DTO/HotelService.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\TravelPolicy\TravelPolicyUtility' is never used</description>
+  <highlighted_element>Application\Model\TravelPolicy\TravelPolicyUtility</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>50</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/AviaCenter/Search/SearchResult.php</file>
+  <line>8</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/AviaCenter/Search/SearchResult.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Utility\General' is never used</description>
+  <highlighted_element>Application\Model\Utility\General</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/Interfaces/TrainApiInterface.php</file>
+  <line>11</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/Interfaces/TrainApiInterface.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\Connector\Train\Dto\OrderInfoPureResponse' is never used</description>
+  <highlighted_element>Application\Model\Connector\Train\Dto\OrderInfoPureResponse</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>59</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Parser/SabreParser.php</file>
+  <line>35</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Parser/SabreParser.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'RuntimeException' is never used</description>
+  <highlighted_element>RuntimeException</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Reader/FtpReader.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Reader/FtpReader.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\OuterImport\Reader\FtpReader\FileMap' is never used</description>
+  <highlighted_element>Application\Model\OuterImport\Reader\FtpReader\FileMap</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>54</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Reader/SftpReader.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Reader/SftpReader.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'RuntimeException' is never used</description>
+  <highlighted_element>RuntimeException</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Resolver/Resolver.php</file>
+  <line>12</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Resolver/Resolver.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\OuterImport\Reader\ReaderInterface' is never used</description>
+  <highlighted_element>Application\Model\OuterImport\Reader\ReaderInterface</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>52</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Resolver/Resolver.php</file>
+  <line>13</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Resolver/Resolver.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'Application\Model\OuterImport\Reader\ReaderResultInterfaces' is never used</description>
+  <highlighted_element>Application\Model\OuterImport\Reader\ReaderResultInterfaces</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>59</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/Rules/Avia/TariffGroups.php</file>
+  <line>6</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/Rules/Avia/TariffGroups.php" />
+  <problem_class id="PhpUnusedAliasInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused import</problem_class>
+  <description>Import 'phpDocumentor\Reflection\Types\Self_' is never used</description>
+  <highlighted_element>phpDocumentor\Reflection\Types\Self_</highlighted_element>
+  <language>PHP</language>
+  <offset>4</offset>
+  <length>36</length>
+</problem>
+</problems>

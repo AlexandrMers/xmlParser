@@ -1,0 +1,986 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AviaService.php</file>
+  <line>3887</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/AviaService.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>($auth-&gt;session_user_id)</highlighted_element>
+  <language>PHP</language>
+  <offset>45</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>1363</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>36</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>2309</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>40</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>2593</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>44</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>2612</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>44</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>2737</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>44</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>2863</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>52</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>2886</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>44</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>3446</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>40</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>3552</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>40</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>3759</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>44</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>3775</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>44</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php</file>
+  <line>4074</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sabre.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(true)</highlighted_element>
+  <language>PHP</language>
+  <offset>40</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php</file>
+  <line>5867</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 2 parameters, but the method signature uses 1 parameters</description>
+  <highlighted_element>($orderIds, true)</highlighted_element>
+  <language>PHP</language>
+  <offset>73</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TrainService.php</file>
+  <line>1426</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TrainService.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 2 parameters, but the method signature uses 1 parameters</description>
+  <highlighted_element>($trainService-&gt;train_ufs_service_pnr, $trainService-&gt;train_ufs_service_ext_order_id)</highlighted_element>
+  <language>PHP</language>
+  <offset>48</offset>
+  <length>85</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TrainService.php</file>
+  <line>1745</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TrainService.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 2 parameters, but the method signature uses 1 parameters</description>
+  <highlighted_element>($trainService-&gt;train_ufs_service_pnr, $trainService-&gt;train_ufs_service_ext_order_id)</highlighted_element>
+  <language>PHP</language>
+  <offset>64</offset>
+  <length>85</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TravelpolicyService.php</file>
+  <line>421</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/TravelpolicyService.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 2 parameters, but the method signature uses 1 parameters</description>
+  <highlighted_element>($searchString, 15)</highlighted_element>
+  <language>PHP</language>
+  <offset>47</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>50</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>51</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>55</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>56</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>61</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>62</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>63</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>64</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>65</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>66</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>67</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>68</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>69</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>70</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>71</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>72</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>73</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>74</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>75</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>76</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>91</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>92</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>97</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>98</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>99</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>119</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>46</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>120</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>46</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>128</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>129</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>130</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>131</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>168</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>169</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>173</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>174</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>179</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>180</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>181</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>182</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>183</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>184</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>185</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>186</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>187</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>188</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>189</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>190</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>191</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>192</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>193</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>194</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>209</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>210</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>38</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>217</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>50</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>218</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>50</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>219</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>50</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>223</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>224</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>225</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>42</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>243</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>54</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>244</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>54</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>258</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>46</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php</file>
+  <line>259</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/ReportExportUtility.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 1 parameters, but the method signature uses 0 parameters</description>
+  <highlighted_element>(0)</highlighted_element>
+  <language>PHP</language>
+  <offset>46</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php</file>
+  <line>258</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/SupplyReports/ServiceData/HotelBookingData.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 2 parameters, but the method signature uses 1 parameters</description>
+  <highlighted_element>($sd-&gt;hotels_service_hotel_data, $sd-&gt;hotel_service_hotel_id)</highlighted_element>
+  <language>PHP</language>
+  <offset>40</offset>
+  <length>61</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter/OrdersList/OrdersListResult.php</file>
+  <line>27</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/AviaCenter/OrdersList/OrdersListResult.php" />
+  <problem_class id="PhpMethodParametersCountMismatchInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Parameters number mismatch declaration</problem_class>
+  <description>Method call is provided 2 parameters, but the method signature uses 1 parameters</description>
+  <highlighted_element>($passenger, $variantData)</highlighted_element>
+  <language>PHP</language>
+  <offset>52</offset>
+  <length>26</length>
+</problem>
+</problems>

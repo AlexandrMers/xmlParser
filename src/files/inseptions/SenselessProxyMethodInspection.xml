@@ -1,0 +1,98 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>43</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="SenselessProxyMethodInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Senseless proxy function</problem_class>
+  <description>[EA] '__construct' method can be dropped, as it only calls parent's one.</description>
+  <highlighted_element>__construct</highlighted_element>
+  <language>PHP</language>
+  <offset>20</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Order/PassengerTable.php</file>
+  <line>78</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Order/PassengerTable.php" />
+  <problem_class id="SenselessProxyMethodInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Senseless proxy function</problem_class>
+  <description>[EA] 'delete' method can be dropped, as it only calls parent's one.</description>
+  <highlighted_element>delete</highlighted_element>
+  <language>PHP</language>
+  <offset>20</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Transfer/ServiceTable.php</file>
+  <line>62</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/Transfer/ServiceTable.php" />
+  <problem_class id="SenselessProxyMethodInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Senseless proxy function</problem_class>
+  <description>[EA] 'insert' method can be dropped, as it only calls parent's one.</description>
+  <highlighted_element>insert</highlighted_element>
+  <language>PHP</language>
+  <offset>20</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php</file>
+  <line>86</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/OrderService.php" />
+  <problem_class id="SenselessProxyMethodInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Senseless proxy function</problem_class>
+  <description>[EA] '__construct' method can be dropped, as it only calls parent's one.</description>
+  <highlighted_element>__construct</highlighted_element>
+  <language>PHP</language>
+  <offset>20</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/EmployeegroupService.php</file>
+  <line>24</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/EmployeegroupService.php" />
+  <problem_class id="SenselessProxyMethodInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Senseless proxy function</problem_class>
+  <description>[EA] '__construct' method can be dropped, as it only calls parent's one.</description>
+  <highlighted_element>__construct</highlighted_element>
+  <language>PHP</language>
+  <offset>20</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/CardService.php</file>
+  <line>23</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/CardService.php" />
+  <problem_class id="SenselessProxyMethodInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Senseless proxy function</problem_class>
+  <description>[EA] '__construct' method can be dropped, as it only calls parent's one.</description>
+  <highlighted_element>__construct</highlighted_element>
+  <language>PHP</language>
+  <offset>20</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/DocumentService.php</file>
+  <line>25</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/DocumentService.php" />
+  <problem_class id="SenselessProxyMethodInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Senseless proxy function</problem_class>
+  <description>[EA] '__construct' method can be dropped, as it only calls parent's one.</description>
+  <highlighted_element>__construct</highlighted_element>
+  <language>PHP</language>
+  <offset>20</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Storage/Predis.php</file>
+  <line>44</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Storage/Predis.php" />
+  <problem_class id="SenselessProxyMethodInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Senseless proxy function</problem_class>
+  <description>[EA] '__construct' method can be dropped, as it only calls parent's one.</description>
+  <highlighted_element>__construct</highlighted_element>
+  <language>PHP</language>
+  <offset>20</offset>
+  <length>11</length>
+</problem>
+</problems>

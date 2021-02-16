@@ -1,0 +1,146 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/SoapCoreExternal.php</file>
+  <line>13</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/SoapCoreExternal.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'debug' is already defined in \Zend\Soap\Server, check our online documentation for options.</description>
+  <highlighted_element>$debug</highlighted_element>
+  <language>PHP</language>
+  <offset>14</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/SoapCoreExternal.php</file>
+  <line>24</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/SoapCoreExternal.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'server' is already defined in \Zend\Soap\Server, check our online documentation for options.</description>
+  <highlighted_element>$server</highlighted_element>
+  <language>PHP</language>
+  <offset>14</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Storage/PredisOptions.php</file>
+  <line>11</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Storage/PredisOptions.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field '__strictMode__' is already defined in \Zend\Stdlib\AbstractOptions, check our online documentation for options.</description>
+  <highlighted_element>$__strictMode__</highlighted_element>
+  <language>PHP</language>
+  <offset>14</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Order/OrderGetterHotelMulti.php</file>
+  <line>80</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Order/OrderGetterHotelMulti.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'hotel_service_serviceaccommodation_id' is already defined in \Application\Model\DBRow\Hotel\HotelMultiService, check our online documentation for options.</description>
+  <highlighted_element>$hotel_service_serviceaccommodation_id</highlighted_element>
+  <language>PHP</language>
+  <offset>11</offset>
+  <length>38</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Order/OrderGetterHotelMulti.php</file>
+  <line>91</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Order/OrderGetterHotelMulti.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'hotel_service_additional_services' is already defined in \Application\Model\DBRow\Hotel\HotelMultiService, check our online documentation for options.</description>
+  <highlighted_element>$hotel_service_additional_services</highlighted_element>
+  <language>PHP</language>
+  <offset>11</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Order/OrderGetterHotel.php</file>
+  <line>10</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Order/OrderGetterHotel.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'service_accept' is already defined in \Application\Model\DBRow\Hotel\Ostrovok\HotelService, check our online documentation for options.</description>
+  <highlighted_element>$service_accept</highlighted_element>
+  <language>PHP</language>
+  <offset>11</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Order/OrderGetterHotel.php</file>
+  <line>14</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Order/OrderGetterHotel.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'service_acceptor_id' is already defined in \Application\Model\DBRow\Hotel\Ostrovok\HotelService, check our online documentation for options.</description>
+  <highlighted_element>$service_acceptor_id</highlighted_element>
+  <language>PHP</language>
+  <offset>11</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Order/OrderGetterHotel.php</file>
+  <line>19</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Order/OrderGetterHotel.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'chat' is already defined in \Application\Model\DBRow\Hotel\Ostrovok\HotelService, check our online documentation for options.</description>
+  <highlighted_element>$chat</highlighted_element>
+  <language>PHP</language>
+  <offset>11</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/CompanySetter.php</file>
+  <line>11</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/CompanySetter.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'groupId' is already defined in \Application\Model\DBRow\Company, check our online documentation for options.</description>
+  <highlighted_element>$groupId</highlighted_element>
+  <language>PHP</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/CompanySetter.php</file>
+  <line>16</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/CompanySetter.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'reasonCodesDefault' is already defined in \Application\Model\DBRow\Company, check our online documentation for options.</description>
+  <highlighted_element>$reasonCodesDefault</highlighted_element>
+  <language>PHP</language>
+  <offset>11</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/Company.php</file>
+  <line>10</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/Company.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'groupId' is already defined in \Application\Model\DBRow\Company, check our online documentation for options.</description>
+  <highlighted_element>$groupId</highlighted_element>
+  <language>PHP</language>
+  <offset>11</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/Company.php</file>
+  <line>15</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/Company/Company.php" />
+  <problem_class id="ClassOverridesFieldOfSuperClassInspection" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class overrides a field of a parent class</problem_class>
+  <description>[EA] Field 'reasonCodesDefault' is already defined in \Application\Model\DBRow\Company, check our online documentation for options.</description>
+  <highlighted_element>$reasonCodesDefault</highlighted_element>
+  <language>PHP</language>
+  <offset>11</offset>
+  <length>19</length>
+</problem>
+</problems>

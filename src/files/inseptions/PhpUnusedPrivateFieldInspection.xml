@@ -1,0 +1,302 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/HotelService.php</file>
+  <line>36</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/HotelService.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$_amenityDict'</description>
+  <highlighted_element>$_amenityDict</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/HotelService.php</file>
+  <line>46</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Service/HotelService.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$_kindDict'</description>
+  <highlighted_element>$_kindDict</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Slack.php</file>
+  <line>16</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Slack.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$chanel'</description>
+  <highlighted_element>$chanel</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Slack.php</file>
+  <line>18</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Slack.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$icon'</description>
+  <highlighted_element>$icon</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/Profile.php</file>
+  <line>27</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Avia/Profile.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$accountsByCompanyId'</description>
+  <highlighted_element>$accountsByCompanyId</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Acquiring/TheMapBTAUtility.php</file>
+  <line>33</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Acquiring/TheMapBTAUtility.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property 'GDS_AMADEUS'</description>
+  <highlighted_element>GDS_AMADEUS</highlighted_element>
+  <language>PHP</language>
+  <offset>18</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Acquiring/TheMapBTAUtility.php</file>
+  <line>35</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Acquiring/TheMapBTAUtility.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property 'MAP_USER_ACTIVE'</description>
+  <highlighted_element>MAP_USER_ACTIVE</highlighted_element>
+  <language>PHP</language>
+  <offset>18</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Acquiring/TheMapBTAUtility.php</file>
+  <line>36</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Acquiring/TheMapBTAUtility.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property 'MAP_USER_DEACTIVE'</description>
+  <highlighted_element>MAP_USER_DEACTIVE</highlighted_element>
+  <language>PHP</language>
+  <offset>18</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Acquiring/TheMapBTAUtility.php</file>
+  <line>37</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/Acquiring/TheMapBTAUtility.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property 'MAP_USER_ERROR'</description>
+  <highlighted_element>MAP_USER_ERROR</highlighted_element>
+  <language>PHP</language>
+  <offset>18</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/FileUpload/Upload.php</file>
+  <line>21</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Utility/FileUpload/Upload.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$httpAdapter'</description>
+  <highlighted_element>$httpAdapter</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php</file>
+  <line>62</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property 'CODES_MAP'</description>
+  <highlighted_element>CODES_MAP</highlighted_element>
+  <language>PHP</language>
+  <offset>18</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php</file>
+  <line>83</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Avia/Sirena.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$timeout'</description>
+  <highlighted_element>$timeout</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php</file>
+  <line>175</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$stan'</description>
+  <highlighted_element>$stan</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php</file>
+  <line>184</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$phone'</description>
+  <highlighted_element>$phone</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php</file>
+  <line>193</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$placedemands'</description>
+  <highlighted_element>$placedemands</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php</file>
+  <line>200</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$email'</description>
+  <highlighted_element>$email</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php</file>
+  <line>207</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$idcust'</description>
+  <highlighted_element>$idcust</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php</file>
+  <line>215</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$time'</description>
+  <highlighted_element>$time</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php</file>
+  <line>222</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Train/TicketMe/Dto/BuyTicket.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$comment'</description>
+  <highlighted_element>$comment</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Aeroexpress/AeroexpressApi.php</file>
+  <line>16</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Aeroexpress/AeroexpressApi.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$users'</description>
+  <highlighted_element>$users</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Aeroexpress/AeroexpressApi.php</file>
+  <line>17</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Connector/Aeroexpress/AeroexpressApi.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$documents'</description>
+  <highlighted_element>$documents</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Parser/SabreParser.php</file>
+  <line>47</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Parser/SabreParser.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property 'OPERATION_TICKET'</description>
+  <highlighted_element>OPERATION_TICKET</highlighted_element>
+  <language>PHP</language>
+  <offset>18</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Resolver/Resolver.php</file>
+  <line>19</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/OuterImport/Resolver/Resolver.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property 'GDS'</description>
+  <highlighted_element>GDS</highlighted_element>
+  <language>PHP</language>
+  <offset>18</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Notification/Type/Slack.php</file>
+  <line>9</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/Notification/Type/Slack.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property '$_readyToSend'</description>
+  <highlighted_element>$_readyToSend</highlighted_element>
+  <language>PHP</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/Rules/Train/Constants.php</file>
+  <line>46</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/TravelPolicy/Rules/Train/Constants.php" />
+  <problem_class id="PhpUnusedPrivateFieldInspection" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">Unused private property</problem_class>
+  <description>Unused private property 'ONE_FLOOR'</description>
+  <highlighted_element>ONE_FLOOR</highlighted_element>
+  <language>PHP</language>
+  <offset>18</offset>
+  <length>9</length>
+</problem>
+</problems>

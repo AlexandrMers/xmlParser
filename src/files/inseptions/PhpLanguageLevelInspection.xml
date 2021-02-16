@@ -1,0 +1,26 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/OrderTable.php</file>
+  <line>1195</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/OrderTable.php" />
+  <problem_class id="PhpLanguageLevelInspection" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Language level</problem_class>
+  <description>Keywords as part of namespace are only allowed since PHP 8.0</description>
+  <highlighted_element>new</highlighted_element>
+  <language>PHP</language>
+  <offset>27</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/OrderTable.php</file>
+  <line>1266</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Model/DBTable/OrderTable.php" />
+  <problem_class id="PhpLanguageLevelInspection" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Language level</problem_class>
+  <description>Keywords as part of namespace are only allowed since PHP 8.0</description>
+  <highlighted_element>new</highlighted_element>
+  <language>PHP</language>
+  <offset>18</offset>
+  <length>3</length>
+</problem>
+</problems>

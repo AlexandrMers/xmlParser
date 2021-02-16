@@ -1,0 +1,14 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php</file>
+  <line>399</line>
+  <module>docker-infra</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/api/www/module/Application/src/Application/Controller/CronController.php" />
+  <problem_class id="PhpDynamicAsStaticMethodCallInspection" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dynamic method called as static</problem_class>
+  <description>Non-static method 'execute' should not be called statically</description>
+  <highlighted_element>execute</highlighted_element>
+  <language>PHP</language>
+  <offset>25</offset>
+  <length>7</length>
+</problem>
+</problems>
