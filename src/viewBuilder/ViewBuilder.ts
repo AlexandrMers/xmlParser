@@ -1,46 +1,38 @@
-import {AggregatedReportsInterface} from "../services/AggregateDataService/AggregateDataService";
+import { AggregatedReportsInterface } from "../services/AggregateDataService/AggregateDataService";
 import HtmlBuilder from "./builders/HtmlBuilder";
 
-export interface HtmlViewerInterface {
-    render: (data: AggregatedReportsInterface[]) => HTMLElement;
-}
-
 export interface ViewBuilderInterface {
-    viewer: HtmlBuilder | TextBuilder;
-    render: (data: AggregatedReportsInterface[]) => any;
+  viewer: HtmlBuilder | TextBuilder;
+  render: (data: AggregatedReportsInterface[]) => any;
 }
 
 export enum ViewBuilderType {
-    HTML,
-    TEXT
+  HTML,
 }
 
 class TextBuilder {
-    render(data: AggregatedReportsInterface[]) {
-        return "";
-    };
+  render(data: AggregatedReportsInterface[]) {
+    return "";
+  }
 }
 
 const mapViewBuilder = {
-    [ViewBuilderType.HTML]: HtmlBuilder,
-    [ViewBuilderType.TEXT]: TextBuilder,
-}
+  [ViewBuilderType.HTML]: HtmlBuilder,
+};
 
 class ViewBuilder implements ViewBuilderInterface {
-    viewer: HtmlBuilder | TextBuilder;
+  viewer: HtmlBuilder;
 
-    constructor({
-        viewType
-    }: {
-        viewType: ViewBuilderType
-    }) {
-        this.viewer  = new mapViewBuilder[viewType];
-    }
+  constructor({ viewType }: { viewType: ViewBuilderType }) {
+    this.viewer = new mapViewBuilder[viewType]();
+  }
 
-    public render(data: AggregatedReportsInterface[], generatedFileName?: string) {
-        return this.viewer.render(data, generatedFileName);
-    };
-
+  public render(
+    data: AggregatedReportsInterface[],
+    generatedFileName?: string
+  ) {
+    return this.viewer.render(data, generatedFileName);
+  }
 }
 
 export default ViewBuilder;

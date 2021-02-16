@@ -1,21 +1,22 @@
 import * as fs from "fs";
 import path from "path";
 
-import {AggregatedReportsInterface} from "../../services/AggregateDataService/AggregateDataService";
+import { AggregatedReportsInterface } from "../../services/AggregateDataService/AggregateDataService";
 
-import {buildTemplate, renderMap} from "./helpers";
+import { buildTemplate, renderMap } from "./helpers";
 
 const renderTemplateByData = (data: AggregatedReportsInterface[]): string =>
-    `<div>
+  `<div>
         ${renderMap(data, (group) => {
-            return `
+          return `
                 <div>
                     <h3>Тип обнаруженной проблемы: ${group.name}</h3>
                     ${renderMap(group.commonReports, (report) => {
-                        return `${group.commonReports.map(report => `
+                      return `${group.commonReports.map(
+                        (report) => `
                             <div style="margin-bottom: 10px">
                                 ${renderMap(report.reports, (reportItem) => {
-                                    return `
+                                  return `
                                         <div style="margin-bottom: 10px">
                                             <div><strong>Уровень проблемы:</strong> ${reportItem.problem.severity}</div>
                                             <div><strong>Файл:</strong> ${reportItem.file}:${reportItem.line}</div>
@@ -24,28 +25,37 @@ const renderTemplateByData = (data: AggregatedReportsInterface[]): string =>
                                         </div>`;
                                 })}
                             </div>
-                    `       )}`;
-                        })
-                    }
+                    `
+                      )}`;
+                    })}
                 </div>
-            `;    
+            `;
         })}
-    </div>`
+    </div>`;
 
 class HtmlBuilder {
-    private renderTemplate = buildTemplate;
+  private renderTemplate = buildTemplate;
 
-    public render(data: AggregatedReportsInterface[], generatedFileName: string = 'index'): string {
-        const renderData = this.renderTemplate(renderTemplateByData(data));
-        fs.writeFile(path.join(__dirname, '../../', `generatedFiles/${generatedFileName}.html`), renderData, function (err) {
-            if (err) return console.log(err);
-            console.log('Успешно сгенерирован html файл');
-        });
+  public render(
+    data: AggregatedReportsInterface[],
+    generatedFileName: string = "index"
+  ): string {
+    const renderData = this.renderTemplate(renderTemplateByData(data));
+    fs.writeFile(
+      path.join(
+        __dirname,
+        "../../",
+        `generatedFiles/${generatedFileName}.html`
+      ),
+      renderData,
+      function (err) {
+        if (err) return console.log(err);
+        console.log("Успешно сгенерирован html файл");
+      }
+    );
 
-        return this.renderTemplate(
-            renderTemplateByData(data)
-        );
-    };
+    return this.renderTemplate(renderTemplateByData(data));
+  }
 }
 
 export default HtmlBuilder;
