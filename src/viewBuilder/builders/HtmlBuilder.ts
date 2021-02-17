@@ -16,7 +16,7 @@ const renderTemplateByData = (data: AggregatedReportsInterface[]): string =>
                       return `
                         <div>
                             <h2><strong>Файл:</strong> ${report.name}</h2>
-                            ${report.reports.map((reportItem) => {
+                            ${renderMap(report.reports, (reportItem) => {
                               return `
                                     <br>
                                     <div>
@@ -25,7 +25,7 @@ const renderTemplateByData = (data: AggregatedReportsInterface[]): string =>
                                         <span><strong>Описание проблемы:</strong> ${reportItem.description} [${reportItem.problem.text}]</span><br>
                                         <span><strong>Часть кода в которой возникла ошибка:</strong> ${reportItem.highlightedElement}</span>
                                     </div>
-                                  `;
+                                `;
                             })}
                         </div>
                       `;

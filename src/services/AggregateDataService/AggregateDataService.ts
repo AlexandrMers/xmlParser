@@ -1,5 +1,7 @@
 import { VariantReportType } from "../PreprocessingService/PreprocessingService";
 import { FormattedParsedByProblemsFileInterface } from "../XmlToJsonFormatter/types";
+import { groupReportsByProp, sortByPriorityGroups } from "./helpers";
+import { compose } from "ramda";
 
 export interface AggregatedReportsInterface {
   name: string;
@@ -15,14 +17,36 @@ export interface DataForAggregateInterface {
   data: FormattedParsedByProblemsFileInterface[];
 }
 
-interface FlattenedReportsInterface
+export interface FlattenedReportsInterface
   extends FormattedParsedByProblemsFileInterface {
   fileName: string;
   reportType: VariantReportType;
 }
 
+export enum LevelProblem {
+  ERROR = "ERROR",
+  WARNING = "WARNING",
+  WEAK_WARNING = "WEAK WARNING",
+  OTHER = "OTHER",
+}
+
+export type PriorityType = typeof LevelProblem[keyof typeof LevelProblem][];
+
 class AggregateDataService {
-  public groupByLanguagesReports(
+  private sortAggregatedDataByPriorityGroup(
+    groups: AggregatedReportsInterface[],
+    priority: PriorityType
+  ) {
+    return groups.map((group) => ({
+      name: group.name,
+      groups: group.groups.map((subGroup) => ({
+        name: subGroup.name,
+        reports: sortByPriorityGroups(subGroup.reports, priority),
+      })),
+    }));
+  }
+
+  private groupByLanguagesReports(
     data: DataForAggregateInterface[]
   ): AggregatedReportsInterface[] {
     const flattenedData: FlattenedReportsInterface[] = data
@@ -45,7 +69,7 @@ class AggregateDataService {
       };
     });
 
-    const groupedData = groupedByLanguage.map((item: any) => ({
+    return groupedByLanguage.map((item: any) => ({
       ...item,
       groups: groupReportsByProp<{
         name: string;
@@ -57,33 +81,21 @@ class AggregateDataService {
         };
       }),
     }));
-
-    console.log("groupedData-> ", JSON.stringify(groupedData, null, 2));
-
-    return groupedData;
   }
 
   public aggregateData(
     groups: DataForAggregateInterface[]
   ): AggregatedReportsInterface[] {
-    return this.groupByLanguagesReports(groups);
+    return this.sortAggregatedDataByPriorityGroup(
+      this.groupByLanguagesReports(groups),
+      [
+        LevelProblem.ERROR,
+        LevelProblem.WARNING,
+        LevelProblem.WEAK_WARNING,
+        LevelProblem.OTHER,
+      ]
+    );
   }
-}
-
-function groupReportsByProp<T>(
-  reports: FlattenedReportsInterface[],
-  prop: keyof Omit<FlattenedReportsInterface, "problem">,
-  callback: (params: any) => T
-) {
-  const groupedObject = reports.reduce<{
-    [key: string]: FlattenedReportsInterface[];
-  }>((acc, current) => {
-    const key = current[prop] ? current[prop] : "other";
-    acc[key] = acc[key] ? [...acc[key], current] : [current];
-    return acc;
-  }, {});
-
-  return Object.values(groupedObject).map(callback);
 }
 
 export default AggregateDataService;
