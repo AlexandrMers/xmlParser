@@ -1,8 +1,4 @@
-import {
-  FormattedDataByDuplicatesParamsInterface,
-  FormattedParsedByProblemsFileInterface,
-  ParsedXmlFileInterface,
-} from "../XmlToJsonFormatter/types";
+import { ParsedXmlFileInterface } from "../XmlToJsonFormatter/types";
 
 import { formatParsedDataByProblemsParams } from "../XmlToJsonFormatter/helpers";
 import { DataForAggregateInterface } from "../AggregateDataService/AggregateDataService";

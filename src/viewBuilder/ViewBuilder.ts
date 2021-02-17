@@ -3,7 +3,7 @@ import HtmlBuilder from "./builders/HtmlBuilder";
 
 export interface ViewBuilderInterface {
   viewer: HtmlBuilder;
-  render: (data: AggregatedReportsInterface[]) => any;
+  render: (data: AggregatedReportsInterface[], pathStr: string) => any;
 }
 
 export enum ViewBuilderType {
@@ -21,11 +21,8 @@ class ViewBuilder implements ViewBuilderInterface {
     this.viewer = new mapViewBuilder[viewType]();
   }
 
-  public render(
-    data: AggregatedReportsInterface[],
-    generatedFileName?: string
-  ) {
-    return this.viewer.render(data, generatedFileName);
+  public render(data: AggregatedReportsInterface[], pathStr: string) {
+    return this.viewer.render(data, pathStr);
   }
 }
 

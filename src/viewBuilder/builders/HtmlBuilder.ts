@@ -39,23 +39,18 @@ const renderTemplateByData = (data: AggregatedReportsInterface[]): string =>
 class HtmlBuilder {
   private renderTemplate = buildTemplate;
 
-  public render(
-    data: AggregatedReportsInterface[],
-    generatedFileName: string = "index"
-  ): string {
+  public render(data: AggregatedReportsInterface[], pathStr: string): string {
     const renderData = this.renderTemplate(renderTemplateByData(data));
-    fs.writeFile(
-      path.join(
-        __dirname,
-        "../../",
-        `generatedFiles/${generatedFileName}.html`
-      ),
-      renderData,
-      function (err) {
-        if (err) return console.log(err);
-        console.log("Успешно сгенерирован html файл");
-      }
-    );
+    const dirPath = path.dirname(pathStr);
+
+    if (!fs.existsSync(dirPath)) {
+      fs.mkdirSync(dirPath);
+    }
+
+    fs.writeFile(pathStr, renderData, function (err) {
+      if (err) return console.log(err);
+      console.log(`Файл успешно сгенерирован в ${pathStr}`);
+    });
 
     return this.renderTemplate(renderTemplateByData(data));
   }

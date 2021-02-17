@@ -3,6 +3,7 @@ import XmlFetcher from "../XmlFetcher";
 
 import { ParsedXmlFileInterface } from "./types";
 import { PreprocessServiceInterface } from "../PreprocessingService/PreprocessingService";
+import * as fs from "fs";
 
 const fileService = new FileService();
 
