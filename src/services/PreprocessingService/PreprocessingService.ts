@@ -12,21 +12,10 @@ export enum VariantReportType {
   DUPLICATES,
 }
 
-interface FormattedReportsInterface<T> {
-  name: string;
-  type: VariantReportType;
-  data: T;
-}
-
 interface PreprocessingFormattingDataInterface {
   fileName: string;
   parsedData: ParsedXmlFileInterface;
 }
-
-export type PreformatDataInterface = FormattedReportsInterface<
-  | FormattedParsedByProblemsFileInterface[]
-  | FormattedDataByDuplicatesParamsInterface[][]
->[];
 
 export type MapTypeTranslations = { [key: string]: string };
 
